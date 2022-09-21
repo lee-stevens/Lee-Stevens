@@ -1,17 +1,27 @@
 <h1 align="center">Hi there, my name is Lee</h1>
-<h3 align="center">I'm looking to get a new job as a MEAN Full-Stack Developer or a Angular/React Front-End Developer</h3>
+<h3 align="center">I'm looking to get a new job as a Web Developer (React or Angular)</h3>
 <h3 align="center">In the meantime, I'm currently working as a VBA and Web Developer at <i>Audit Intelligence</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leesprojects&label=Profile%20views&color=0e75b6&style=flat" alt="leesprojects" /> </p>
 
-<h3>Current Projects</h3>
+## <h3>Primary Projects</h3>
   
-INSIDE WORK  | I'm current working on [🔭Forenzix Web App](https://forenzicswebapp2-sandbox.mxapps.io/) for [Audit Intelligence](https://auditintelligence.co/) | Monday - Thursday
+Professional  | I'm current working on [🔭Forenzix Web App](https://forenzicswebapp2-sandbox.mxapps.io/) for [Audit Intelligence](https://auditintelligence.co/) | Monday - Thursday
 
-OUTSIDE WORK | I’m currently learning **MEAN Full-stack** | Monday to Thursday (After work) and Friday to Sunday
+Self-Learning | I'm currently learning [**MEAN Full-stack**](https://github.com/leesprojects/MEAN-LeesProjects) by building a general purpose app for myself | Monday to Thursday (After work) and Friday to Sunday
+
+
+## <h3>Secondary Projects</h3>
+I am currently exploring different Javascript frameworks and libraries to expand my knowledge and skillset at a web developer
+
+  <ul>
+    <li>React.js Front-End | <a href="https://leestevens.xyz/">My React.js portfolio</a></li>
+    <li>Next.js | <a href="https://nextjs-leesprojects-62is.vercel.app/">My Next.js learning site</a></li>
+  </ul>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+
+## <h3 align="left">Languages and Tools:</h3>
 
 I am frequently using these skills & tools below, however MEAN is the primary focus
 
@@ -53,7 +63,7 @@ I am frequently using these skills & tools below, however MEAN is the primary fo
 
 
 <br><br>
-<h3>Get In Contact</h3>
+## <h3>Get In Contact</h3>
 
 👨‍💻 View my portfolio at [https://leestevens.xyz](https://leestevens.xyz) until I deploy this website which is much better
 
