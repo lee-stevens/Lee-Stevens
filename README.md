@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td>Strongest Skill</td>
+    <td>Strongest</td>
     <td> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a> 
@@ -17,7 +17,7 @@
     </td>
   </tr>
   <tr>
-    <td>Moderate Skills</td>
+    <td>Moderate</td>
     <td> 
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a> 
@@ -28,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td>Some Experience</td>
+    <td>Weakest</td>
     <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src=https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="nodejs" width="60" height="60"/> </a> 
@@ -81,6 +81,7 @@ Whilst achieving my primary goals, I also want to improve my responsive design s
 
 <br>
 <h3> Statistics </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leesprojects&show_icons=true&locale=en&layout=compact" alt="leesprojects" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leesprojects&" alt="leesprojects" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesprojects&layout=compact)](https://github.com/leesprojects/github-readme-stats)
+
+[![LeesProjects Github Stats](https://github-readme-stats.vercel.app/api?username=leesprojects)](https://github.com/leesprojects/github-readme-stats)
