@@ -1,8 +1,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leesprojects&label=Profile%20views&color=0e75b6&style=flat" alt="leesprojects" /> </p>
 <h1 align="center">Hi there, my name is Lee</h1>
-<h3 align="center">I'm looking to get a new job as a Web Developer (React or Angular)</h3>
-<h3 align="center">I currently work as a VBA and Web Developer at <i>Audit Intelligence</i></h3>
 
 ## <h3 align="left">Languages, libraries & frameworks</h3>
 
