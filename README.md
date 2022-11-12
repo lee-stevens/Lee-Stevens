@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leesprojects&label=Profile%20views&color=0e75b6&style=flat" alt="leesprojects" /> </p>
 <h1 align="center">Hi there, my name is Lee</h1>
 
-## <h3 align="left">Languages, libraries & frameworks</h3>
+<h3 align="left">Languages, libraries & frameworks</h3>
 
 <table>
   <tr>
@@ -11,6 +11,9 @@
       <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a> 
       <img alt="vba" width="60" height="60" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png"/>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="60" height="60"/>
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/></a> 
     </td>
   </tr>
   <tr>
@@ -19,12 +22,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Core" width="60" height="60"/>
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
       <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="SQL" width="60" height="60"/>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
       <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"  width="60" height="60"/>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="60" height="60"/>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/></a> 
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="60" height="60"/>
     </td>
   </tr>
@@ -45,12 +45,14 @@ Web Development | I'm current working on [🔭Forenzix Web App](https://forenzic
 VBA Development | Developing a mass-data processing dedupilication processor between 5 class-action lawsuit solicitors (50k to 200k cases)
 
 ## <h3>Self-learning | Primary Goals</h3>
-My priority is learning <i>Angular</i> front-end, <i>Express.JS</i> backend and becomming a better <i>JavaScript</i> programmer with Leetcode.
+My priority is learning <i>Angular</i> front-end, <i>C#</i> backend and <i>JavaScript</i>.
+        
+To do this I'm currently developing a one-file set of notes for every single language and tool I'm learning found [here](https://github.com/leesprojects/programming-notes), whilst also taking an Angular-ASP.NET Udemy Course found [here](https://github.com/leesprojects/ASP-Angular-Animal-App)
   
   <ul>
     <li>Angular Front-End</li>
-    <li>Leetcode JavaScript</li>
-    <li>Express.JS Backend</li>
+    <li>JavaScript & TypeScript</li>
+    <li>C#, MVC, Entity Framework</li>
   </ul>
   
  ## <h3>Self-learning | Secondary Goals</h3>
