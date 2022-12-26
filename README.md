@@ -14,6 +14,7 @@
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="60" height="60"/>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/></a> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="60" height = "60"></img>
     </td>
   </tr>
   <tr>
@@ -40,12 +41,10 @@
 ## <h1>Current Projects</h1>
 <h3>Professional</h3>
   
-Web Development | I'm current working on [🔭Forenzix Web App](https://forenzicswebapp2-sandbox.mxapps.io/) for [Audit Intelligence](https://auditintelligence.co/)
-
-VBA Development | Developing a mass-data processing dedupilication processor between 5 class-action lawsuit solicitors (50k to 200k cases)
+Web Development | Currently working as a Full Stack Developer at Atomus
 
 ## <h3>Self-learning | Primary Goals</h3>
-My priority is learning <i>Angular</i> front-end, <i>C#</i> backend and <i>JavaScript</i>.
+My priority lies with Angular for frontend as well as both .NET and Node for backends.
         
 To do this I'm currently developing a one-file set of notes for every single language and tool I'm learning found [here](https://github.com/leesprojects/programming-notes), whilst also taking an Angular-ASP.NET Udemy Course found [here](https://github.com/leesprojects/ASP-Angular-Animal-App)
   
