@@ -41,6 +41,7 @@ This profile only contains projects & commits from personal projects, not any wo
    <tr>
     <td>Game Development</td>
     <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="Unity" width="60" height="60"/>
       <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="C#" width="60" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="60" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender" width="60" height="60"/>
