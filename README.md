@@ -50,14 +50,15 @@ This profile only contains projects & commits from personal projects, not any wo
    <tr>
     <td>Robotics & Electronics</td>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="Raspberry Pi" width="60" height="60"/></img>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="60" height="60"/></img>
+      <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="Raspberry Pi" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="60" height="60"/>
     </td>
   </tr>
    <tr>
     <td>Previously Used</td>
     <td>
-      <img alt="vba" width="60" height="60" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png"/>
+      <img src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="VBA" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="60" height="60"/>
     </td>
   </tr>
  </table>
