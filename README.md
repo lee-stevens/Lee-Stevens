@@ -33,9 +33,7 @@ This profile only contains projects & commits from personal projects, not any wo
       <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="SQL" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-      <img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="NodeJS" width="60" height="60"/>
+      <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="ThreeJS" width="60" height="60"/>
      </td>
   </tr>
    <tr>
@@ -59,6 +57,9 @@ This profile only contains projects & commits from personal projects, not any wo
     <td>
       <img src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="VBA" width="60" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
+      <img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="NodeJS" width="60" height="60"/>
     </td>
   </tr>
  </table>
