@@ -3,7 +3,7 @@
 
 # Hi there, my name is Lee
 
-<b>I'm a Full-Stack Web Developer who specialises in <i>Angular</i>, <i>.NET</i> and <i>MSQL</i></b>
+<b>I'm a Full-Stack Web Developer who specialises in <i>Angular</i>, <i>ASP.NET</i>, <i>MSQL</i> and <i>Azure</i></b>
 
 This profile only contains projects & commits from personal projects, not any work-related items
 
