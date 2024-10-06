@@ -4,7 +4,7 @@
 
 <b>I'm a Full-Stack Web Developer who specialises in <i>Angular</i>, <i>ASP.NET</i>, <i>MSQL</i> and <i>Azure</i></b>
 
-This profile only contains projects & commits from personal projects, not any work-related items
+This profile only contains projects & commits from personal projects, not any work-related items.
 
 ## Languages, Frameworks & Tools
 
@@ -70,8 +70,6 @@ This profile only contains projects & commits from personal projects, not any wo
 👨‍💻 View my portfolio at <i>[leestevens.xyz](https://leestevens.xyz)</i> or keep up-to-date with this github account.
 
 📫 Email me at: <i>leepeterstevens@gmail.com</i>
-
-Project Spyhnx: [![Netlify Status](https://api.netlify.com/api/v1/badges/8204b9c0-091f-46c9-a6a9-d20121d4d9e6/deploy-status)](https://app.netlify.com/sites/project-sphynx/deploys)
 
 <p align="left">
   <a href="https://linkedin.com/in/lee-stevens-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee-stevens-dev" height="30" width="40" /></a>
