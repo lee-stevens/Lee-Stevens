@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=leesprojects&label=Profile%20views&color=0e75b6&style=flat" alt="leesprojects" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lee-stevens&label=Profile%20views&color=0e75b6&style=flat" alt="lee-stevens" /> </p>
 
 # Hi there, my name is Lee
 
@@ -63,7 +63,7 @@ This profile only contains projects & commits from personal projects, not any wo
   </tr>
  </table>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesprojects&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-stevens&show_icons=true&theme=transparent)
 
 ## <h2>Get In Contact With Me</h2>
 
