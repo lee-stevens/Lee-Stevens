@@ -10,7 +10,7 @@ This profile only contains projects & commits from personal projects, not any wo
 
 <table>
   <tr>
-    <td>Work</td>
+    <td>Current Work</td>
     <td>
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>    
@@ -18,7 +18,6 @@ This profile only contains projects & commits from personal projects, not any wo
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Core" width="60" height="60"/>
       <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="SQL" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="60" height="60"/>
-      <img src="https://valor-software.com/ngx-bootstrap/assets/images/logos/ngx-bootstrap-logo.svg" alt="SQL" width="60" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="60" height="60"/>
     </td>
   </tr>
@@ -26,13 +25,12 @@ This profile only contains projects & commits from personal projects, not any wo
     <td>Web Development</td>
     <td>
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Core" width="60" height="60"/>
       <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="SQL" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-      <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="ThreeJS" width="60" height="60"/>
      </td>
   </tr>
    <tr>
@@ -40,8 +38,6 @@ This profile only contains projects & commits from personal projects, not any wo
     <td>
       <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="Unity" width="60" height="60"/>
       <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="C#" width="60" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="60" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender" width="60" height="60"/>
      </td>
   </tr>
    <tr>
@@ -55,9 +51,8 @@ This profile only contains projects & commits from personal projects, not any wo
     <td>Previously Used</td>
     <td>
       <img src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" alt="VBA" width="60" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="60" height="60"/>
+      <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="ThreeJS" width="60" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
       <img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="NodeJS" width="60" height="60"/>
     </td>
   </tr>
