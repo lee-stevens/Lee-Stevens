@@ -40,16 +40,13 @@ This profile only contains projects & commits from personal projects, not any wo
   </tr>
  </table>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-stevens&show_icons=true&theme=transparent)
-
 ## <h2>Get In Contact With Me</h2>
 
 👨‍💻 View my portfolio at <i>[leestevens.xyz](https://leestevens.xyz)</i> or keep up-to-date with this github account.
 
-📫 Email me at: <i>leepeterstevens@gmail.com</i>
+📫 Email me at: <i>lee.stevens.dev@pm/me</i>
 
 <p align="left">
   <a href="https://linkedin.com/in/lee-stevens-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee-stevens-dev" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/lee-stevens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lee-stevens" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/zaeroso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaeroso" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/arcanejaguar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaeroso" height="30" width="40" /></a>
 </p>
