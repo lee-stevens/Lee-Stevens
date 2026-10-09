@@ -14,17 +14,17 @@ Currently working on a .NET/Angular/PostgreSQL project 'Athena Toolkit', if you'
    <tr>
     <td>Professional</td>
     <td>
-      <img src="https://github.com/user-attachments/assets/0843131f-50d5-4565-bf36-664cd445e34b" alt="Angular" width="60" height="60"/>
-      <img src="https://github.com/user-attachments/assets/8c877ac6-c9cf-46bc-9265-3e5970182972" alt=".NET Core" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+      <img src="https://github.com/user-attachments/assets/8c877ac6-c9cf-46bc-9265-3e5970182972" alt=".NET Core 10 & C#" width="60" height="60"/>
+      <img src="https://damienbod.com/wp-content/uploads/2024/01/brandblazor_nohalo_1000x.png" alt="Blazor" width="60" height="60"/>
+      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" widht="60" height="60" alt=Docker />
       <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="SQL" width="60" height="60"/>
+      <img src="https://github.com/user-attachments/assets/0843131f-50d5-4565-bf36-664cd445e34b" alt="Angular" width="60" height="60"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
      </td>
   </tr>
    <tr>
     <td>Hobbies</td>
     <td>
-       <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" widht="60" height="60" alt=Docker />
        <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="60" height="60" alt=PostgreSQL />
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
        <img src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-2.png" width="60" height="60"/>
